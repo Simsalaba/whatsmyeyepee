@@ -1,0 +1,25 @@
+{
+  "name": "whatsmyeyepee",
+  "version": "1.0.0",
+  "description": "Shows your public IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "wip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baaaze/wip.git"
+  },
+  "author": "Basim Ali",
+  "license": "ISC",
+  "bin": {
+    "whatismyip": "./wip.js"
+  },
+  "bugs": {
+    "url": "https://github.com/baaaze/wip/issues"
+  },
+  "homepage": "https://github.com/baaaze/wip#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
